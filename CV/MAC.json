@@ -1,0 +1,552 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Mario",
+      "surnames": "Bastardo Gago",
+      "title": "Developer and mechanic (actual mechanic, I also resolve all kind of problems)",
+      "description": "I am a Java backend developer, based in Valladolid. I work easily with dependency management systems as Maven and frameworks as Springboot. I do enjoy DevOps. I can also develop with C++ and Python. I adapt extremely well to changes and new methodologies. I love to research in productivity, efficiency, organization and optimization methodologies (5S, Kaizen, Monozukuri, Kanban...). I would love to work automating processes. I also have a background in car factories and as a mechanic there, which happens to be my passion. I speak english fluently and I have no problem in communicating in french",
+      "avatar": {
+        "alt": "IMG_1761.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/699c1f5d-62c7-4bbf-881f-7ace61ce57a0_img_1761.jpg"
+      },
+      "location": {
+        "notes": "Valladolid, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mariotepro/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I do a lot of sport",
+        "fact": "I do a lot of sport and several different sports:\n\n*Crossfit\n*Weightlifting\n*Mountain bike\n*Swimming\n*Running\n*OCR"
+      },
+      {
+        "topic": "I enjoy motor racing",
+        "fact": "I have raced in motorbikes, but I'm also keen in other categories. I love Formula 1."
+      },
+      {
+        "topic": "I really love coffee",
+        "fact": "I really love coffee but, I don't drink much of it. I prefer short shots, intense and aromatic, rather than litres of brew. And black coffee, no sugar, please. "
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Grupo Renault España",
+          "image": {
+            "alt": "índice.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/ebec9332-ffb0-4a7d-bde3-bd6449585e9f_indice.png"
+          },
+          "URL": "https://renault.es"
+        },
+        "roles": [
+          {
+            "name": "Line minder",
+            "startDate": "2010-07-01",
+            "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "I was responsible of manufacturing with and managing several mechanical and hydraulical stamping press lines. I programmed and repaired automation systems such as Siemens Step 7. I also used PL7Pro, Simatic and Magelis panels. Diferential fault diagnose. Mechanics, hydraulics, pneumatics and electricity. I also worked with cranes and forklifts. I learnt a lot in work management systems, automations and organization. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rapture Games"
+        },
+        "roles": [
+          {
+            "name": "Developer trainee",
+            "startDate": "2015-03-01",
+            "finishDate": "2015-07-01",
+            "challenges": [
+              {
+                "description": "Developer trainee internal in Rapture Games in Valladolid. I worked with C++, FrontEnd technologies and Python."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "AJAX",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Almis informática financiera",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/39717e9d-2484-4658-8d5b-cd3d00cb821e_logo.png"
+          },
+          "URL": "https://www.almis.com"
+        },
+        "roles": [
+          {
+            "name": "Java software developer",
+            "startDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "J2EE developer, mixing with a lot of other technologies. I develop webapps and calculation engines for the financial sector, being our main customer Banco Santander (Spain, EU, UK, US)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              },
+              {
+                "name": "Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "Kiuwan",
+                "type": "technology"
+              },
+              {
+                "name": "Shellscript",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Websphere",
+                "type": "technology"
+              },
+              {
+                "name": "Spring-Batch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Voluntary Work - Leisure camp instructor and director",
+          "description": "Leisure camp instructor and director for Asociación juvenil Federico Ozanám de La Rioja. I volunteer with children in exclusion risk performing a yearly camp in León. I also maintain the web-page",
+          "URL": "https://campamentopadrepicon.com",
+          "image": {
+            "alt": "Canciones-eucaristía-acordes-000-e1539625513842 (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/de8ef4db-5468-46e3-b008-4227fa4eb534_canciones-eucaristia.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2007-01-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sonar",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tomcat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kiuwan",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ActiveMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Websphere",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LDAP",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "First certificate in english",
+        "startDate": "2018-07-01",
+        "finishDate": "2018-07-01",
+        "institution": {
+          "name": "Cambridge University Press & Assessment",
+          "description": "Credential ID: 187ES3780030",
+          "URL": "https://www.cambridgeenglish.org/es/",
+          "image": {
+            "alt": "índice.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/8ecb796d-7e55-49d0-9968-e308bff24057_indice.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Telecom and IT systems",
+        "startDate": "2008-09-01",
+        "finishDate": "2010-06-01",
+        "institution": {
+          "name": "Instituto politécnico Cristo Rey",
+          "description": "Telecom and IT systems, CFGS. I passed the degree where I learnt radio, tv, landlines and GSM systems. Also learnt electronic systems and its architecture, always being focused con telecom. Besides, I leart advanced CAD for wiring projects",
+          "URL": "https://cristoreyva.com/",
+          "image": {
+            "alt": "índice.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/71519177-f3c0-4aea-8e60-77ab0e4cf5e7_indice.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Vivero de competencias",
+        "startDate": "2009-09-01",
+        "finishDate": "2010-06-01",
+        "institution": {
+          "name": "Grupo Renault España",
+          "description": "\"Vivero de competencias Carrocerías Renault\". Due to an agreement between Grupo Renault España and I.P. Cristo Rey, we went to study to Carrocerías Renault Valladolid in my spare time, in order to learn mechanics, hydraulics, pneumatics and electricity work for, later on, get a position in that company. I also learnt automation programming (Siemens Step7, PL7Pro and Phoenix Contacts) and robotic arm programming (Kuka and ABB)",
+          "URL": "https://renault.es",
+          "image": {
+            "alt": "índice.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/e759fab2-6037-434c-a52e-7ebb4277f684_indice.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Multiplatform app developer",
+        "startDate": "2013-09-01",
+        "finishDate": "2015-07-01",
+        "institution": {
+          "name": "Centro de enseñanza Gregorio Fernández",
+          "description": "Multiplatform app developer CFGS (as in spanish: Ciclo formativo de grado superior). ",
+          "URL": "https://gregoriofer.com/",
+          "image": {
+            "alt": "logoGF-colorNuevo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/294c2e5d-7dea-4e2a-8b71-20d9cbbea1aa_logogf-colornuevo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "CMS",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "OpenERP",
+            "type": "technology"
+          },
+          {
+            "name": "Navision",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mariotepro/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Maven",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Sonar",
+          "type": "technology"
+        },
+        {
+          "name": "SonarQube",
+          "type": "technology"
+        },
+        {
+          "name": "Kiuwan",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
